@@ -1,5 +1,12 @@
 # EFI Gigabyte H310M H 2.0 + i5 9400F + RX 580
 
+**Power Management Full**:
+
+![Power Management-12 3 1](https://github.com/ragnarok-br/EFI-GIGABYTE-H310M-H2-i5-9400F-RX580/blob/2e8848b46452b827cdbb5fc1eaba1f74f5860e81/Images/About.png)
+
+**About this mac**:
+
+![about-12 3 1](https://github.com/ragnarok-br/EFI-GIGABYTE-H310M-H2-i5-9400F-RX580/blob/2e8848b46452b827cdbb5fc1eaba1f74f5860e81/Images/PWMan.png)
 
 **Latest working macOS**: Ventura 13.1
 <br>
