@@ -127,16 +127,16 @@
 						CQAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>3</integer>
+						<integer>255</integer>
 					</dict>
 					<key>HS10</key>
 					<dict>
-						<key>#port</key>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
 						<data>
 						CgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>SS01</key>
 					<dict>
@@ -180,6 +180,8 @@
 						<data>
 						FQAAAA==
 						</data>
+						<key>Comment</key>
+						<string>15</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>

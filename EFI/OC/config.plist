@@ -8,7 +8,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT.aml</string>
+				<string>SSDT Full</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -652,37 +652,6 @@
 		<true/>
 		<key>CustomMemory</key>
 		<false/>
-		<key>DataHub</key>
-		<dict>
-			<key>ARTFrequency</key>
-			<integer>0</integer>
-			<key>BoardProduct</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
-			<key>BoardRevision</key>
-			<data>CQ==</data>
-			<key>DevicePathsSupported</key>
-			<integer>0</integer>
-			<key>FSBFrequency</key>
-			<integer>0</integer>
-			<key>InitialTSC</key>
-			<integer>0</integer>
-			<key>PlatformName</key>
-			<string></string>
-			<key>SmcBranch</key>
-			<data></data>
-			<key>SmcPlatform</key>
-			<data>ajEzNwAAAAA=</data>
-			<key>SmcRevision</key>
-			<data></data>
-			<key>StartupPowerEvents</key>
-			<integer>0</integer>
-			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02F70TMHX87</string>
-			<key>SystemUUID</key>
-			<string>D89A87D3-4B50-4A45-BD74-1BEABB1589DC</string>
-		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
@@ -690,11 +659,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02106501GUJG368C</string>
+			<string>M0000000000000001 "Generate SMBIOS"</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
-			<data>BCZlahA/</data>
+			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -702,83 +671,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02F70TMHX87</string>
+			<string>W00000000001 "Generate SMBIOS"</string>
 			<key>SystemUUID</key>
-			<string>D89A87D3-4B50-4A45-BD74-1BEABB1589DC</string>
-		</dict>
-		<key>PlatformNVRAM</key>
-		<dict>
-			<key>BID</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
-			<key>FirmwareFeatures</key>
-			<data>PvWP/QgAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>P/+f/wgAAAA=</data>
-			<key>MLB</key>
-			<string>C02106501GUJG368C</string>
-			<key>ROM</key>
-			<data>BCZlahA/</data>
-			<key>SystemSerialNumber</key>
-			<string>C02F70TMHX87</string>
-			<key>SystemUUID</key>
-			<string>D89A87D3-4B50-4A45-BD74-1BEABB1589DC</string>
-		</dict>
-		<key>SMBIOS</key>
-		<dict>
-			<key>BIOSReleaseDate</key>
-			<string>09/29/2022</string>
-			<key>BIOSVendor</key>
-			<string></string>
-			<key>BIOSVersion</key>
-			<string>1916.40.8.0.0</string>
-			<key>BoardAssetTag</key>
-			<string>Base Board Asset Tag</string>
-			<key>BoardLocationInChassis</key>
-			<string>Part Component</string>
-			<key>BoardManufacturer</key>
-			<string></string>
-			<key>BoardProduct</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
-			<key>BoardSerialNumber</key>
-			<string>C02706100QXJG36UE</string>
-			<key>BoardType</key>
-			<integer>10</integer>
-			<key>BoardVersion</key>
-			<string>iMacPro1,1</string>
-			<key>ChassisAssetTag</key>
-			<string>Asset Tag#</string>
-			<key>ChassisManufacturer</key>
-			<string></string>
-			<key>ChassisSerialNumber</key>
-			<string>C02T7SYHHX87</string>
-			<key>ChassisType</key>
-			<integer>13</integer>
-			<key>ChassisVersion</key>
-			<string>Mac-7BA5B2D9E42DDD94</string>
-			<key>FirmwareFeatures</key>
-			<data>PvWP/QgAAAA=</data>
-			<key>FirmwareFeaturesMask</key>
-			<data>P/+f/wgAAAA=</data>
-			<key>PlatformFeature</key>
-			<integer>32</integer>
-			<key>ProcessorType</key>
-			<integer>1537</integer>
-			<key>SmcVersion</key>
-			<data></data>
-			<key>SystemFamily</key>
-			<string>iMac</string>
-			<key>SystemManufacturer</key>
-			<string></string>
-			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
-			<key>SystemSKUNumber</key>
-			<string>System SKU#</string>
-			<key>SystemSerialNumber</key>
-			<string>C02F70TMHX87</string>
-			<key>SystemUUID</key>
-			<string>D89A87D3-4B50-4A45-BD74-1BEABB1589DC</string>
-			<key>SystemVersion</key>
-			<string>1.0</string>
+			<string>00000000-0000-0000-0000-000000000000 "Generate SMBIOS"</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1032,6 +927,8 @@
 			<true/>
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
+			<key>ResizeUsePciRbIo</key>
+			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
