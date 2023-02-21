@@ -2,15 +2,15 @@
 
 **Power Management Full**:
 
-![Power Management-12 3 1](https://github.com/ragnarok-br/EFI-GIGABYTE-H310M-H2-i5-9400F-RX580/blob/2e8848b46452b827cdbb5fc1eaba1f74f5860e81/Images/About.png)
+![Power Management-12 3 1](https://github.com/ragnarok-br/EFI-GIGABYTE-H310M-H2-i5-9400F-RX580/blob/2e8848b46452b827cdbb5fc1eaba1f74f5860e81/Images/PWMan.png)
 
 **About this mac**:
 
-![about-12 3 1](https://github.com/ragnarok-br/EFI-GIGABYTE-H310M-H2-i5-9400F-RX580/blob/2e8848b46452b827cdbb5fc1eaba1f74f5860e81/Images/PWMan.png)
+![about-12 3 1](https://github.com/ragnarok-br/EFI-GIGABYTE-H310M-H2-i5-9400F-RX580/blob/2e8848b46452b827cdbb5fc1eaba1f74f5860e81/Images/About.png)
 
-**Latest working macOS**: Ventura 13.1
+**Latest working macOS**: Ventura 13.2
 <br>
-**Current OpenCore**: 0.8.8
+**Current OpenCore**: 0.8.9
 
 ## Complete hardware specs
 - Intel i5 9400F
